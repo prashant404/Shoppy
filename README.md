@@ -22,7 +22,7 @@
 
 - [ ] Clone the Repository
 ```
-https://github.com/prashant404/Shoppy.git
+git clone https://github.com/prashant404/Shoppy.git
 ```
 - [ ] Enter into the directory
 ```
