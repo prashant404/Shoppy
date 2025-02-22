@@ -22,11 +22,11 @@
 
 - [ ] Clone the Repository
 ```
-https://github.com/athulrajhere/FlowyCart-ecommerce-react-redux.git
+https://github.com/prashant404/Shoppy.git
 ```
 - [ ] Enter into the directory
 ```
-cd FlowyCart-ecommerce-react-redux
+cd Shoppy
 ```
 - [ ] Install all dependencies
 ```
